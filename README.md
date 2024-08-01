@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/a/Slzapy6" style="width: 69%">
+    <blockquote class="imgur-embed-pub" lang="en" data-id="a/Slzapy6" data-context="false" ><a href="//imgur.com/a/Slzapy6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
  
 <div align="center">
