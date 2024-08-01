@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/a/Slzapy6.png" style="width: 69%">
+    <img src="https://imgur.com/a/Slzapy6" style="width: 69%">
 </p>
  
 <div align="center">
@@ -21,4 +21,4 @@
 - [Java 21+](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 
 ## Screenshots
-![image](https://imgur.com/a/ji7YNDh.jpg)
+![image](https://imgur.com/a/ji7YNDh)
